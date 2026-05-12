@@ -1,5 +1,4 @@
-# index.html
-“Just a simple website for the person I’d love to walk with someday.” ❤️
+
 # 🌙 One Walk With You
 
 A soft cinematic website made for someone special.
